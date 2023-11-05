@@ -1,1 +1,1 @@
-# OASIS-TASKS
+# OIBSIP-Iris classification
